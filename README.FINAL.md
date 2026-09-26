@@ -78,9 +78,9 @@ The modified prototype helped us demonstrate the main working concept while keep
 
 # 9.Result:
 
-![image3](result (2).jpeg)
+![image3](result.jpeg)
 
-# 10*. Conclusion*
+# 10. Conclusion
 
 ACCESS-WIN aims to provide an accessible solution for people who may find it difficult to operate conventional windows manually. The system combines Rain Drop Sensor, DHT11, Arduino UNO, and servo motor to demonstrate automatic environmental monitoring and opening/closing control.
 
