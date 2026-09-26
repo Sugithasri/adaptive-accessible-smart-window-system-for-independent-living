@@ -10,7 +10,7 @@ The system uses a Rain Drop Sensor and DHT11 Sensor along with an Arduino UNO an
 
 # 
 
-# 2*. Problem Statement*
+# 2. Problem Statement
 
 People with limited mobility may find it difficult to operate conventional windows because they need to reach, grip, and physically move the window. This becomes more challenging during sudden rain, when the window needs to be closed quickly.
 
@@ -22,7 +22,7 @@ Initially, we planned to develop the prototype as a smart window system. Our fir
 
 The Rain Drop Sensor was planned to detect rainfall and control the window automatically. The DHT11 Sensor was included to monitor temperature and humidity conditions.  
 *Schematic diagram:*  
-*![][image1]*
+![image1](schmaticdiagram.jpeg)
 
 # 4\. Prototype Challenge and Design Modification
 
@@ -36,7 +36,7 @@ This design change was an important part of our development process, as we adapt
 
 # Block diagram:
 
-*![][image2]*
+![image2](blockdiagram.jpeg)
 
 # 5\. Sensors and Components Used sensors
 
@@ -78,7 +78,7 @@ The modified prototype helped us demonstrate the main working concept while keep
 
 # 9.Result:
 
-![][image3]
+![image3](result (2).jpeg)
 
 # 10*. Conclusion*
 
